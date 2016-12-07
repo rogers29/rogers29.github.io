@@ -1,2 +1,4 @@
-# rogers29.github.io
-Minha Página Pessoal
+# Minha pagina pessoal
+Página Pessoal
+
+Contato: rogersduarte29@gmail.com
